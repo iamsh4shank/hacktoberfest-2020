@@ -3,5 +3,6 @@
 Shashank Priyadarshi
 Adithya Kumar
 Akshay Nair
+Chainfire73
 Jayakrishnan
 Advaith A J
