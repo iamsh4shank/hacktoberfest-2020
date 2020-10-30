@@ -4,6 +4,7 @@
 vaishnavi garrepalli
 
 Shashank Priyadarshi
+Shoaib Akhtar :sunglasses:
 Adithya Kumar
 Akshay Nair
 Chainfire73
