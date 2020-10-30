@@ -1,7 +1,13 @@
 # hacktoberfest-2020
 
-Shashank Priyadarshi
 
+vaishnavi garrepalli
+
+Shashank Priyadarshi
 Shoaib Akhtar :sunglasses:
-(created new branch named "new_branch")
-(used git reset --hard new_branch command to remove the name) 
+Adithya Kumar
+Akshay Nair
+Chainfire73
+Jayakrishnan
+Advaith A J
+Gyanchith Hari
